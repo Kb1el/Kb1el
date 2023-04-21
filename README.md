@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Kb1el">
-   <img height="185em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kb1el&layout=compact&langs_count=6&theme=highcontrast"/>
+   <img height="185em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Kb1el&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
