@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Kb1el">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kb1el&layout=compact&langs_count=6&theme=dracula"/>
+   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kb1el&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -11,6 +11,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ 
 
 </div>
  
