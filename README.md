@@ -62,4 +62,4 @@ Atualmente focado em **Java**, **JavaScript**, **React**, e desenvolvimento full
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/Kb1el/Kb1el/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kb1el/Kb1el/output/github-contribution-grid-snake.svg)
